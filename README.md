@@ -15,6 +15,14 @@ This project uses a **Decision Tree Regressor** model trained on educational per
 
 ---
 
+## 🎥 Demo
+
+Here’s how the Student Exam Predictor works:
+
+![Student Exam Predictor Demo](static/stud_mark_predict.gif)
+
+---
+
 ## 🚀 Features
 
 - Predict math score using user inputs via a form
@@ -44,7 +52,8 @@ This project uses a **Decision Tree Regressor** model trained on educational per
 ml_project/
 │
 ├── static/                  # Logo and assets
-│   └── logo.png
+│   ├── logo.png
+│   └── demo.gif
 ├── templates/
 │   └── home.html            # Web form and UI
 ├── src/
